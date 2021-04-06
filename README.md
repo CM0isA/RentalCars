@@ -23,11 +23,11 @@ To accomodate this new office we need to implement some changes to our software:
 
 * We also need a new kind of statement grouped by car category to better see what our customers prefer:  
 
-	Category 	Total Income  
-	Regular 	220EUR  
-	Premium		5000EUR  
-	Mini 		520EUR  
-	Luxury 		1520EUR  
+	Category   Total Income  
+	Regular    220EUR  
+	Premium    5000EUR  
+	Mini       220EUR  
+	Luxury     1520EUR  
 
 Please update the software so it can work in both Iasi and Bucharest offices and to offer both kinds of Statements.
 Feel free to refactor everything as you wish as long as you follow all the industry best-practices you have learned so far.
