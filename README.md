@@ -32,3 +32,7 @@ To accomodate this new office we need to implement some changes to our software:
 
 Please update the software so it can work in both Iasi and Bucharest offices and to offer both kinds of Statements.
 Feel free to refactor everything as you wish as long as you follow all the industry best-practices you have learned so far.
+
+**PS:**
+Also, we suspect there is a bug somewhere in the statement generation, sometimes it displays the wrong price for rentals.
+Please find it and fix it.
