@@ -11,7 +11,7 @@ Our rates are as following:
 We have also a *Customer Loialty* program:
 * For each rental a customer receives 1 *FrequentRenterPoint*
 * For each Premium rental over 2 days a customer receives 2 *FrequentRenterPoints*
-* Customers who have at least 5 *FrequentRenterPoints* receive 5% discount on every rental.
+* Customers who have at least 5 *FrequentRenterPoints* receive 5% discount on the total price of a rental.
 
 Our business is going so well that we decided to open a new office in Bucharest.
 To accomodate this new office we need to implement some changes to our software:
