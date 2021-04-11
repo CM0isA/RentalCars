@@ -6,7 +6,7 @@ namespace RentalCars
 {
     public class RentalCars
     {
-        public readonly List<Rental> _rentals = new List<Rental>();
+        private readonly List<Rental> _rentals = new List<Rental>();
         public string Name { get; }
         public double PricePerDay { get; private set; }
 
