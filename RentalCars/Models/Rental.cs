@@ -12,5 +12,6 @@
         public Customer Customer { get; }
         public Car Car { get; }
         public int DaysRented { get; }
+        public double Price { get; set; }
     }
 }

@@ -19,5 +19,11 @@ namespace RentalCars
         {
             Rentals.Add(rental);
         }
+
+        public void ShowPoints()
+        {
+            System.Console.WriteLine(Name + " " + FrequentRenterPoints.ToString());
+        }
+
     }
 }
