@@ -7,7 +7,7 @@ namespace RentalCars.Category
 {
     class LuxuryOperation : IOperations
     {
-        public bool AddRental(Rental rental)
+        public bool CheckAvailability(Rental rental)
         {
             if (rental.Customer.FrequentRenterPoints >= 3)
             {

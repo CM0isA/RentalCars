@@ -15,7 +15,7 @@ namespace RentalCars.Category
 
         public bool ExecuteOperations(Rental rental)
         {
-           return operations.AddRental(rental);
+           return operations.CheckAvailability(rental);
         }
     }
 }

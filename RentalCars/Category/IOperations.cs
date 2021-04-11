@@ -6,6 +6,6 @@ namespace RentalCars.Category
 {
     interface IOperations
     {
-        public bool AddRental(Rental rental);
+        public bool CheckAvailability(Rental rental);
     }
 }

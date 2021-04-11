@@ -7,7 +7,7 @@ namespace RentalCars.Category
 {
     class BasicOperation : IOperations
     {
-        public bool AddRental(Rental rental)
+        public bool CheckAvailability(Rental rental)
         {
             return true;
         }

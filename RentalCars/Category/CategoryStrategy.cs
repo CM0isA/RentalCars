@@ -4,7 +4,7 @@ using System.Text;
 
 namespace RentalCars.Category
 {
-    class ConcreteStrategy
+    class CategoryStrategy
     {
         private bool Availability { get; set; }
 

@@ -19,7 +19,7 @@ namespace RentalCars
         public void AddRental(Rental rental)
         {
             var factory = new PriceCalculatorFactory();
-            var Availability = new ConcreteStrategy();
+            var Availability = new CategoryStrategy();
 
             if (Availability.CheckAvailability(rental))
             {
